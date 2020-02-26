@@ -1,20 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    duck-duck-go (1.1.3)
-      httpclient
-      json
-    httpclient (2.8.3)
-    json (2.2.0)
     mini_portile2 (2.4.0)
-    nokogiri (1.10.4)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  duck-duck-go
   nokogiri
 
 BUNDLED WITH
